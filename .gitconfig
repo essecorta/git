@@ -1,0 +1,2 @@
+[alias]
+        lg = log --format=format:'%C(dim)%cd%C(reset)  %C(auto)%h%C(reset) %C(auto)%d%C(reset) %C(auto)%s%C(reset) %C(dim)<%an>%C(reset)' --date=format:'%d/%m/%y %H:%M' --decorate-refs-exclude=refs/remotes
